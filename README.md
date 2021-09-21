@@ -7,14 +7,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+##Configurando Sua máquina
 criar arquivo dentro da pasta database
+
 database.sqlite
+
 instalar composer dentro da pasta do projeto
+
 rodar composer install
+
 criar arquivo .env e comentar as linhas 11,12,13,14,15
+
 mudar dbconnection para sqlite
+
 rodar php artisan key:generate
+
 php artisan migrate
+
 php artisan serv
 
 ir no seu navegador e digitar 127.0.0.1:"sua porta"
