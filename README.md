@@ -9,6 +9,10 @@
 
 ##Configurando Sua máquina
 
+
+Antes de começar lembre-se de conferir se sua máquina está com o PHP devidamente configurado, se o plugin SSL está ativo e se o Php está no arquivo PATH(caso não estejam o adicione as variáveis de ambiente). 
+
+
 criar arquivo dentro da pasta database
 
 database.sqlite
